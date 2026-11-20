@@ -1,0 +1,10 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\yigit\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.13.10002-hotspot",
+      "default": true
+    }
+  ],
+  "java.jdt.ls.java.home": "C:\\Users\\yigit\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.13.10002-hotspot"
+}
