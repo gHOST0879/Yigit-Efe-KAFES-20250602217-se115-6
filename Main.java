@@ -24,6 +24,5 @@ public class Main {
         }
         int energy=4*mapCol*mapRow;
         final int maxEnergy=4*mapCol*mapRow;//i havent use ai here i google'd.
-        
     }
 }
